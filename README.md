@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katerina Dimitrova
 ==========================================================================================================================================
 
-I'm a student in Bulgaria. I'm not a very good programmer, but I have a good heart. Well, I can't write a line without crying. Anyway. I mainly program in Python, but because of school, I fell in love with C#. I've studied C++, but it's not my language. I can say the same for JavaScript. I adore SQL. Literally, it's my gem. My goal for this year is to start studying XML, HTML, CSS.
+I'm a student in Bulgaria. I'm not a very good programmer, but I have a good heart. Well, I can't write a line without crying. Anyway. I mainly program in Python, but because of school, I fell in love with C#. I've studied C++, but it's not my language. I can say the same for JavaScript. I adore SQL. Literally, it's my gem. 
 
 * ✉️  You can contact me at [dimitrovakaterina780@gmail.com](mailto:dimitrovakaterina780@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning C++
 * ⚡  I want to become a writer...
 
 <a href="https://www.github.com/cathy-09" target="_blank" rel="noreferrer"><img
