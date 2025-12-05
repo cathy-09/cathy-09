@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Badges
 
-[![Cathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cathy-09)](https://github.com/cathy-09/cathy-09/blob/main/README.md)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09)
 
 ### Commits
 
