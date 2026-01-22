@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 ### Badges
 
 <div align="center">
-  <table border="0">
+  <table border="none">
     <tr>
       <td valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats">
