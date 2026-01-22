@@ -23,15 +23,25 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Badges
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=cathy-09&theme=dark" />
-  </a>
-  
-&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy-09&layout=compact&langs_count=8&card_width=320&theme=dark" />
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=cathy-09&theme=dark" />
+        </a>
+      </td>
+      
+      <td width="50px"></td> 
+      
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy-09&layout=compact&langs_count=8&card_width=320&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Commits
 
