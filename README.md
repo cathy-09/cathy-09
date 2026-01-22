@@ -23,6 +23,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Badges
 
+ <div align="center">
   <table border="0">
     <tr>
       <td valign="top">
@@ -30,13 +31,15 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
           <img height="200" src="https://github-readme-stats.vercel.app/api?username=cathy-09&theme=dark&hide_border=true" />
         </a>
       </td>
-      <td width="30"></td> <td valign="top">
+      <td width="30"></td> 
+      <td valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy-09&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" />
         </a>
       </td>
     </tr>
   </table>
+</div>
 
 ### Commits
 
