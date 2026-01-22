@@ -1,9 +1,9 @@
 name: Generate Pac-Man Game
 
 on:
+  workflow_dispatch:        # Ръчно стартиране
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"     # Автоматично веднъж на ден в UTC полунощ
   push:
     branches:
       - main
@@ -11,22 +11,30 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     permissions:
-      contents: write
+      contents: write       # Нужно за push към output branch
 
     steps:
+      # 1️⃣ Клониране на репото
       - uses: actions/checkout@v4
 
-      - name: Generate pacman contribution graph
+      # 2️⃣ Генериране на Pac-Man графика
+      - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: cathy-09
+          github_user_name: cathy-09       # смени с твоето GitHub потребителско име
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # задължително за достъп до contributions
 
-      - name: Push pacman graph to output branch
+      # 3️⃣ Проверка какво е генерирано
+      - name: Show generated files
+        run: ls -R
+
+      # 4️⃣ Push към output branch
+      - name: Push Pac-Man graph to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: dist     # папката, която Pac-Man Action създава
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
