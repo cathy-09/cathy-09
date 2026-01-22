@@ -1,41 +1,43 @@
 name: Generate Pac-Man Game
+
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
+  schedule: # Run automatically every 24 hours
+    - cron: "0 0 * * *"  # Fixed: runs at midnight UTC daily
+  workflow_dispatch: # Allows manual triggering
+  push: # Runs on every push to the main branch
     branches:
       - main
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
     permissions:
       contents: write
-    
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-      
-      - name: Generate Pac-Man contribution graph
+      # Step 1: Generate the Pac-Man contribution graph
+      - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: cathy-09
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}  # Added for better API access
+
+      # Step 2: Debug - check what was generated
       - name: List generated files
         run: |
-          echo "Files in current directory:"
-          ls -la
-          echo "Looking for SVG files:"
+          echo "Files in dist directory:"
+          ls -la dist/ || echo "No dist directory found"
+          echo ""
+          echo "All SVG files:"
           find . -name "*.svg" -type f
-      
-      - name: Deploy to output branch
+
+      # Step 3: Push the generated SVG to the output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
           keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
