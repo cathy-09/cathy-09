@@ -35,10 +35,8 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Commits with pacman
 
-<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake.svg">
-    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cathy-09/cathy-09/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cathy-09/cathy-09/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my contributions" src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/pacman-contribution-graph.svg">
   </picture>
-</div>
