@@ -23,18 +23,18 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Badges
 
- <div align="center">
-  <table hide_border=true>
+<div align="center">
+  <table border="0">
     <tr>
       <td valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="200" src="https://github-readme-stats.vercel.app/api?username=cathy-09&theme=transparent&hide_border=true" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api?username=cathy-09&theme=dark&hide_border=true&border_color=1c1c1c" />
         </a>
       </td>
       <td width="30"></td> 
       <td valign="top">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy-09&layout=compact&langs_count=8&card_width=320&hide_border=true" />
+          <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy-09&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true&border_color=1c1c1c" />
         </a>
       </td>
     </tr>
