@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Badges
 
-<img src="https://your-vercel-app.vercel.app/api?username=cathy-09&show_icons=true&count_private=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&size_weight=0.5&count_weight=0.5)
 
 ### Commits
 
