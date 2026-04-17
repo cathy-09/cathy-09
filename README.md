@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Skills
 
-<p align="left">
+<p align="left" style="display:flex; gap:10px;">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" /></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus" /></a>
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="40" height="40" alt="haskell" /></a>
