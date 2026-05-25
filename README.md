@@ -26,7 +26,17 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=cathy-09&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img height="200"
+       src="https://github-readme-stats.vercel.app/api?username=cathy-09&theme=dark&hide_border=true" />
+
+  <img height="200"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy-09&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cathy-09&theme=dark&hide_border=true" />
+</p>
 
 ### Commits
 
