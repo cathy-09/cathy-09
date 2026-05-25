@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Top languages
 
-![Stats](https://raw.githubusercontent.com/cathy-09/cathy-09/main/path-to-generated-image.png)
+![Stats](https://raw.githubusercontent.com/cathy-09/cathy-09/main/stats.svg)
 
 ### GitHub Stats
 
