@@ -36,7 +36,6 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 <img src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake.svg?sanitize=true">
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cathy-09/cathy-09/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cathy-09/cathy-09/output/pacman-contribution-graph.svg">
