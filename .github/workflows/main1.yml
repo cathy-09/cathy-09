@@ -10,40 +10,29 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      # Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generate Pac-Man graph
-      - name: Generate pacman-contribution-graph.svg
+      - name: Generate pacman graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Debug files
-      - name: List files
-        run: |
-          echo "Repo content:"
-          ls -R
-
-      # Create output branch content
       - name: Prepare output folder
         run: |
           mkdir -p output
-          find . -name "*.svg" -exec cp {} output/ \;
+          cp pacman-contribution-graph*.svg output/ || true
 
-      # Push to output branch
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: output
-
+          
