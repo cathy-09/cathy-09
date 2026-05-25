@@ -26,17 +26,11 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ## 📊 GitHub Stats 🧠 Top Languages GitHub Stats
 
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=cathy-09&theme=dark" />
-</p>
 
-<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=cathy-09&layout=compact&theme=dark" />
-</p>
 
-<p align="center">
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cathy-09&theme=highcontrast" alt="GitHub Streak" /></a>
-</p>
 
 ## Commits
 
