@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Top languages
 
-![GitHub Streak](https://streak-stats.demolab.com?user=cathy-09&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&layout=compact)
 
 ### GitHub Stats
 
