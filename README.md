@@ -42,3 +42,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cathy-09/cathy-09/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/pacman-contribution-graph.svg">
 </picture>
+
+## Info
+
+![GitHubCard](https://githubcard.com/cathy-09.svg)
