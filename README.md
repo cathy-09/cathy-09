@@ -26,13 +26,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### GitHub Stats
 
-<p align="center">
-  <img height="200"
-       src="https://github-readme-stats.vercel.app/api?username=cathy-09&theme=dark&hide_border=true" />
-
-  <img height="200"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=cathy-09&layout=compact&langs_count=8&card_width=320&theme=dark&hide_border=true" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 ### Commits
 
