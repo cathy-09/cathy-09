@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cathy-09&theme=dark)](https://git.io/streak-stats)
 
 ### Commits
 
