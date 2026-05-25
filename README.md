@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cathy-09&theme=dark&hide_border=true" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=cathy-09&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 ### Commits
