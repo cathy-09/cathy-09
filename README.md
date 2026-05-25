@@ -26,13 +26,7 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ### Top languages
 
-- name: Generate top languages card
-  uses: soulteary/github-readme-stats-action@v1.0.0
-  with:
-    card: top-langs
-    options: 'username=${{ cathy-0 }}&layout=compact&langs_count=6'
-    path: profile/top-langs.svg
-    token: ${{ secrets.GITHUB_TOKEN }}
+![Stats](https://raw.githubusercontent.com/cathy-09/cathy-09/main/path-to-generated-image.png)
 
 ### GitHub Stats
 
