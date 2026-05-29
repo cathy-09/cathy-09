@@ -1,3 +1,24 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,12,20,24&text=Cathy%2009&fontSize=75&fontAlign=50&fontAlignY=38&desc=Creative%20Developer%20%7C%20Future%20Engineer&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=cathy-09&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
+
+<img src="https://img.shields.io/github/followers/cathy-09?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" />
+
+<a href="mailto:dimitrovakaterina780@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-MAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br><br>
+
+<i>"Code is art with logic behind it."</i>
+
+</div>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katerina Dimitrova
 ==========================================================================================================================================
 
