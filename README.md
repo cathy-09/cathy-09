@@ -61,18 +61,33 @@ Mindset:
   Always learning.
 ```
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katerina Dimitrova
-==========================================================================================================================================
+<hr style="border: 1px solid #6a0dad; width: 50%;">
 
-I'm a student in Bulgaria. I'm not a very good programmer yet, but I have a good heart. Sometimes it's hard for me and I feel like crying, but I keep going.
-I study at Sofia University "St. Kliment Ohridski", in the Faculty of Mathematics and Informatics. My major is Software Engineering.
-I mainly program in Python, but because of school I fell in love with C#. I really love SQL — it is my gem.
-At university, I study C++, but it is not really my thing.
-I also started learning Ruby.
+# 🎨 Personal Info 🎨
 
+```yaml
+- I study at Sofia University "St. Kliment Ohridski", in the Faculty of Mathematics and Informatics.
+- My major is Software Engineering.
+
+- I'm not a very good programmer yet, but I have a good heart. Sometimes it's hard for me and I feel like crying, but I keep going.
+- I mainly program in Python, but because of school I fell in love with C#.
+- I really love SQL — it is my gem.
+
+- At university, I study C++, but it is not really my thing.
+- I also started learning Ruby.
+```
+
+<hr style="border: 1px solid #6a0dad; width: 50%;">
+
+# 🎨 Personal Info Pt.2 🎨
+
+```yaml
 * ✉️  You can contact me at [dimitrovakaterina780@gmail.com](mailto:dimitrovakaterina780@gmail.com)
 * 🧠  I'm learning C++ and Ruby.
 * ⚡  I want to become a writer...
+```
+
+<hr style="border: 1px solid #6a0dad; width: 50%;">
 
 <a href="https://www.github.com/cathy-09" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
