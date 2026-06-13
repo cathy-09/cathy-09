@@ -92,7 +92,7 @@ Mindset:
 # 🎨 Skills 🎨
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,haskell,mysql,html,css,ruby,github,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,haskell,mysql,html,css,ruby,github,vscode,visualstudio,latex&theme=dark" />
 <img src="https://cdn.simpleicons.org/latex/FFFFFF" height="48" />
 </div>
 
