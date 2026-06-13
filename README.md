@@ -175,4 +175,4 @@ Mindset:
 
 ![GitHubCard](https://githubcard.com/cathy-09.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,18,24,30" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=18,20,22,24" width="100%" />
