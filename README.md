@@ -120,10 +120,12 @@ Mindset:
 
 <br>
 
+<div align="center">
 <img src="https://img.shields.io/badge/Creative%20Coding-Expressive-a855f7?style=for-the-badge&logo=codepen&logoColor=white" />
 <img src="https://img.shields.io/badge/Art%20%26%20Design-Visual%20Storytelling-a855f7?style=for-the-badge&logo=adobe&logoColor=white" />
 <img src="https://img.shields.io/badge/Problem%20Solving-Logical%20Thinking-a855f7?style=for-the-badge&logo=thinkpad&logoColor=white" />
 <img src="https://img.shields.io/badge/Software%20Development-Creative%20Builder-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ## Socials
 
