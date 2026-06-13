@@ -169,4 +169,4 @@ Mindset:
 
 ![GitHubCard](https://githubcard.com/cathy-09.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30,35&text=Katerina%20Dimitrova&fontSize=65&fontAlign=50&fontAlignY=38&desc=Creative%20Developer%20%7C%20Future%20Engineer&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,18,24,30" width="100%" />
