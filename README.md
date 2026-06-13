@@ -132,11 +132,23 @@ Mindset:
 # 📊 GitHub Stats 
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=cathy-09&theme=tokyonight&hide_border=true&background=00000000"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="100%" src="https://github-readme-stats.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </div>
 
+<hr style="border: 1px solid #6a0dad; width: 50%;">
+
+# 📊 GitHub Stats 
+<div align="center">
+<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=cathy-09&theme=tokyonight&hide_border=true&background=00000000"/>
+</div>
+
+<hr style="border: 1px solid #6a0dad; width: 50%;">
+
+# 📊 GitHub Stats 
+<div align="center">
+<img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</div>
+  
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
 # 📊 Summary
