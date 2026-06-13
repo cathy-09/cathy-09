@@ -23,12 +23,7 @@
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# 🎨💻 Katerina Dimitrova — Creative Developer
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cathy-09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+# 🎨 Katerina Dimitrova — Creative Developer 💻
 
 ```yaml
 Name: "Katerina Dimitrova"
@@ -98,6 +93,11 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
   <img src="https://github-stats-extended.vercel.app/api?username=cathy-09&theme=dark" height="150" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=cathy-09&layout=compact&theme=dark" height="150" />
   <img src="https://streak-stats.demolab.com?user=cathy-09&theme=highcontrast" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cathy-09&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Commits
