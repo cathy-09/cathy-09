@@ -91,6 +91,8 @@ Mindset:
 
 # Skills
 
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,haskell,mysql,html,css,git,github,vscode&theme=dark" />
+
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" height="40" alt="C#" />
