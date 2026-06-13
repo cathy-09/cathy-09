@@ -106,7 +106,7 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-## Socials
+# Socials
 
 <div align="center">
 <a href="https://github.com/cathy-09">
@@ -122,10 +122,10 @@ Mindset:
   <img src="https://skillicons.dev/icons?i=discord" height="48" />
 </a>
 <a href="https://www.facebook.com/Katerina Dimitrova">
-  <img src="https://skillicons.dev/icons?i=facebook" height="48" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" />
 </a>
 <a href="https://www.threads.net/@dimitrova09">
-  <img src="https://skillicons.dev/icons?i=threads" height="48" />
+  <img src="https://cdn.simpleicons.org/threads/000000" height="48" />
 </a>
 </div>
 
