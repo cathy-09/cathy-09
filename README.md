@@ -92,7 +92,7 @@ Mindset:
 # Skills
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,haskell,mysql,sql,html,css,ruby,github,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,haskell,mysql,html,css,ruby,github,vscode,visualstudio&theme=dark" />
 </div>
 
 <br>
@@ -104,22 +104,23 @@ Mindset:
 <img src="https://img.shields.io/badge/Software%20Development-Creative%20Builder-a855f7?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+<hr style="border: 1px solid #6a0dad; width: 50%;">
+
 ## Socials
 
 <p align="left"> <a href="https://discord.com/users/cathy09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> </picture> </a> <a href="https://www.facebook.com/Katerina Dimitrova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /> </picture> </a> <a href="https://www.github.com/cathy-09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> <a href="http://www.instagram.com/dimitrova09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /> </picture> </a> <a href="https://www.threads.net/@dimitrova09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="40" height="40" /> </picture> </a></p>
 
-## 📊 GitHub Stats 🧠 Top Languages GitHub Stats
+# 📊 GitHub Stats 
 
-  <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=cathy-09&theme=dark" height="150" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=cathy-09&layout=compact&theme=dark" height="150" />
-  <img src="https://streak-stats.demolab.com?user=cathy-09&theme=highcontrast" height="150" />
-</p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cathy-09&theme=tokyonight&hide_border=true&background=00000000"/>
+</div>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cathy-09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<hr style="border: 1px solid #6a0dad; width: 50%;">
 
 ## Commits
 
