@@ -125,7 +125,7 @@ Mindset:
   <img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" />
 </a>
 <a href="https://www.threads.net/@dimitrova09">
-  <img src="https://cdn.simpleicons.org/threads/000000" height="48" />
+  <img src="https://cdn.simpleicons.org/threads/FFFFFF" height="48" />
 </a>
 </div>
 
