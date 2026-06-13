@@ -108,7 +108,26 @@ Mindset:
 
 ## Socials
 
-<p align="left"> <a href="https://discord.com/users/cathy09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> </picture> </a> <a href="https://www.facebook.com/Katerina Dimitrova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /> </picture> </a> <a href="https://www.github.com/cathy-09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> <a href="http://www.instagram.com/dimitrova09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /> </picture> </a> <a href="https://www.threads.net/@dimitrova09" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="40" height="40" /> </picture> </a></p>
+<div align="center">
+<a href="https://github.com/cathy-09">
+  <img src="https://skillicons.dev/icons?i=github" height="48" />
+</a>
+<a href="https://instagram.com/dimitrova09">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+</a>
+<a href="mailto:dimitrovakaterina780@gmail.com">
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" height="48"/>
+</a>
+<a href="https://discord.com/users/cathy09">
+  <img src="https://skillicons.dev/icons?i=discord" height="48" />
+</a>
+<a href="https://www.facebook.com/Katerina Dimitrova">
+  <img src="https://skillicons.dev/icons?i=facebook" height="48" />
+</a>
+<a href="https://www.threads.net/@dimitrova09">
+  <img src="https://skillicons.dev/icons?i=threads" height="48" />
+</a>
+</div>
 
 # 📊 GitHub Stats 
 
