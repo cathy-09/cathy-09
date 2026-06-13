@@ -89,10 +89,10 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# Skills
+# 🎨 Skills 🎨
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,cpp,python,haskell,mysql,html,css,ruby,github,vscode,visualstudio&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,cpp,python,haskell,mysql,html,css,tex,ruby,github,vscode,visualstudio&theme=dark" />
 </div>
 
 <br>
@@ -106,7 +106,7 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# Socials
+# 🎨 Socials 🎨
 
 <div align="center">
 <a href="https://github.com/cathy-09">
@@ -129,7 +129,7 @@ Mindset:
 </a>
 </div>
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats 🎨
 
 <div align="center">
 <img height="100%" src="https://github-readme-stats.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
@@ -137,21 +137,21 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats 🎨
 <div align="center">
 <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=cathy-09&theme=tokyonight&hide_border=true&background=00000000"/>
 </div>
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats 🎨
 <div align="center">
 <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 </div>
   
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# 📊 Summary
+# 🎨 Summary 🎨
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cathy-09&theme=tokyonight" width="100%" />
@@ -159,14 +159,14 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# Commits
+# 🎨 Commits 🎨
 <p align="center">
   <img src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake.svg" />
 </p>
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# Commits
+# 🎨 Commits 🎨
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake-dark.svg" />
@@ -174,7 +174,7 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# Activity 
+# 🎨 Activity 🎨
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cathy-09&theme=tokyo-night&hide_border=true&bg_color=00000000&line=a855f7&point=ffffff" width="100%" />
 </div>
