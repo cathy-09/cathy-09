@@ -154,6 +154,10 @@ Mindset:
   <img src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake.svg" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
 # Activity 
