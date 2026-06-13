@@ -149,20 +149,24 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-## Commits
+# Commits
 <p align="center">
   <img src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-## Activity 
+# Activity 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cathy-09&theme=tokyo-night&hide_border=true&bg_color=00000000&line=a855f7&point=ffffff" width="100%" />
 </div>
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-## Info
+<hr style="border: 1px solid #6a0dad; width: 50%;">
+
+# Info
 
 ![GitHubCard](https://githubcard.com/cathy-09.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,30,35&text=Katerina%20Dimitrova&fontSize=65&fontAlign=50&fontAlignY=38&desc=Creative%20Developer%20%7C%20Future%20Engineer&descAlign=50&descAlignY=63&animation=fadeIn" width="100%" />
