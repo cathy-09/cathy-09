@@ -169,10 +169,10 @@ Mindset:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=cathy-09&theme=tokyo-night&hide_border=true&bg_color=00000000&line=a855f7&point=ffffff" width="100%" />
 </div>
 
-<hr style="border: 1px solid #6a0dad; width: 50%;">
+<!-- <hr style="border: 1px solid #6a0dad; width: 50%;"> -->
 
-# Info
+<!-- # Info
 
-![GitHubCard](https://githubcard.com/cathy-09.svg)
+![GitHubCard](https://githubcard.com/cathy-09.svg) -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=18,20,22,24" width="100%" />
