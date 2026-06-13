@@ -23,6 +23,49 @@
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
+# 🎨💻 Katerina Dimitrova — Creative Developer
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cathy-09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+```yaml
+Name: "Katerina Dimitrova"
+
+Identity:
+  - Artist/Writer
+  - Creative Developer
+  - Programming Enthusiast
+
+Location 1: "Smolyan, Bulgaria"
+Location 2: "Sofia, Bulgaria"
+
+Core Focus:
+  - Art & Visual Creativity
+  - Software Development
+  - Creative Coding
+
+Art Style:
+  - Expressive and emotional visuals
+  - Concept-driven art
+  - Experimenting with digital tools
+
+Programming Interests:
+  - C# / Python / Haskell
+  - Problem solving
+  - Algorithms & beautiful logic
+  - Small creative projects
+
+Core Philosophy:
+  "Where logic meets creativity, something unique is born."
+
+Mindset:
+  Curious.
+  Creative.
+  Always learning.
+```
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Katerina Dimitrova
 ==========================================================================================================================================
 
