@@ -59,10 +59,15 @@ src="https://img.shields.io/github/followers/cathy-09?logo=github&style=for-the-
 
 ## Commits
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/cathy-09/cathy-09/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+## Activity 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cathy-09&theme=tokyo-night&hide_border=true&bg_color=00000000&line=a855f7&point=ffffff" width="100%" />
+</div>
+
 
 ## Info
 
