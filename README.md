@@ -4,7 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=cathy-09&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
 
-<img src="https://img.shields.io/github/followers/cathy-09?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" />
+<img src="https://img.shields.io/github/followers/cathy-09?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&logo=github" /> 
 
 <a href="mailto:dimitrovakaterina780@gmail.com">
 <img src="https://img.shields.io/badge/CONTACT-MAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" />
