@@ -139,7 +139,7 @@ Mindset:
 
 # 📊 GitHub Stats 🎨
 <div align="center">
-<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=cathy-09&theme=tokyonight&hide_border=true&background=00000000&v=3"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cathy-09&theme=tokyonight&hide_border=true&background=00000000" alt="cathy-09 GitHub Streak" />
 </div>
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
