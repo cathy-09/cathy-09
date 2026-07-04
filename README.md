@@ -129,23 +129,20 @@ Mindset:
 </a>
 </div>
 
+# 📊 Top Languages 🎨
+<div align="center">
+<img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cathy-09&theme=tokyonight&hide_border=true&langs_count=7&layout=donut&bg_color=000000"/>
+</div>
+
+<hr style="border: 1px solid #6a0dad; width: 50%;">
+
 # 📊 GitHub Stats 🎨
 <div align="center">
-  <!-- Основна статистика -->
-  <img src="https://github-readme-stats.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  
-  <br/><br/>
-  <hr>
-  <br/>
-  <!-- Стрийк статистика -->
-  <img src="https://streak-stats.demolab.com/?user=cathy-09&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-  
-  <br/><br/>
-  <hr>
-  <br/>
-  <!-- Топ езици -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=cathy-09&theme=tokyonight&hide_border=true"/>
 </div>
+
+<hr style="border: 1px solid #6a0dad; width: 50%;">
 
 # 🎨 Summary 🎨
 
