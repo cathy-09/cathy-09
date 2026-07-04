@@ -131,7 +131,7 @@ Mindset:
 
 # 📊 Top Languages 🎨
 <div align="center">
-<img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cathy-09&theme=tokyonight&hide_border=true&langs_count=7&layout=donut&bg_color=000000"/>
+<img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cathy-09&theme=tokyonight&hide_border=true&langs_count=10&layout=donut&bg_color=000000"/>
 </div>
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
