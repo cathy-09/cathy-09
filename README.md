@@ -146,6 +146,7 @@ Mindset:
   <!-- Топ езици -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathy-09&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
 </div>
+
 # 🎨 Summary 🎨
 
 <div align="center">
