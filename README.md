@@ -139,7 +139,7 @@ Mindset:
 # 📊 GitHub Stats 🎨
 <div align="center">
 <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180px" src="https://streak-stats.demolab.com?user=cathy-09&theme=tokyonight&hide_border=true"/>
+<img height="180px" src="https://streak-stats.demolab.com?user=cathy-09&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
