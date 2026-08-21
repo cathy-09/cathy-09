@@ -151,7 +151,9 @@ Mindset:
  <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=cathy-09&theme=dark" height="150" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=cathy-09&layout=compact&theme=dark" height="150" />
-  <img src="https://streak-stats.demolab.com?user=cathy-09&theme=highcontrast" height="150" />
+ <!--
+   <img src="https://streak-stats.demolab.com?user=cathy-09&theme=highcontrast" height="150" /> 
+   -->
 </p>
 
 </div>
