@@ -144,27 +144,15 @@ Mindset:
 
 <hr style="border: 1px solid #6a0dad; width: 50%;">
 
-# 📊 Top Languages
-
-<div align="center">
-
-<img
-height="250em"
-src="https://github-readme-stats-ecd673an1-me-fdc4.vercel.app/api/top-langs/?username=cathy-09&theme=tokyonight&hide_border=true&langs_count=10&layout=donut&bg_color=000000"
-/>
-
-</div>
-
-<hr style="border: 1px solid #6a0dad; width: 50%;">
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img
-height="180px"
-src="https://github-readme-stats-ecd673an1-me-fdc4.vercel.app/api?username=cathy-09&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+ <p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Diyana37&theme=dark" height="150" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Diyana37&layout=compact&theme=dark" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Diyana37&theme=highcontrast" height="150" />
+</p>
 
 </div>
 
